@@ -1,0 +1,13 @@
+body {
+    background-color: lightgray;
+}
+.result{
+    height: 300px;
+    width: 600px;
+    background-color: aqua;
+}
+.result2{
+    height: 300px;
+    width: 600px;
+    background-color: aqua;
+}
